@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&family=Secular+One&display=swap');
+
+* {
+    box-sizing: border-box;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 6px;
+    background: none;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #fdaa70;
+}
